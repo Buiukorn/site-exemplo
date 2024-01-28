@@ -1,0 +1,21 @@
+main{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    height: 40vw;
+    align-items: center;
+}
+main>div {
+    margin: 10vw;
+}
+
+.habilidades{
+    background-color: red;
+}
+.imagem img:hover{
+    background-color: brown;
+}
+.foto {
+    border-radius: 50%;
+
+}
